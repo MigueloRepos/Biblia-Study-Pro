@@ -1,6 +1,0 @@
-{
-  "name": "Biblia Study Pro",
-  "description": "Plataforma minimalista y moderna para el estudio bíblico avanzado.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
